@@ -1,0 +1,17 @@
+html {
+  width: auto;
+  height: auto;
+  background-color: rgb(186, 246, 246);
+  padding: 20px;
+}
+
+body {
+  margin: 25px auto;
+  padding: 15px;
+  width: 500px;
+  height: 500px;
+  background-image: url(./img/Cylinder.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 250px;
+}
